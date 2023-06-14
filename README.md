@@ -7,11 +7,11 @@ Mango Maturity Recognition Using CNN, ResNet50, VGG16
 
 ## Project Demo Screenshots
 
-![App Screenshot](https://github.com/TawhidKomol/crud-using-spring-boot-reactjs/blob/main/src/screenshot/Screenshot%202023-02-22%20234149.png?raw=true)
+![App Screenshot](https://github.com/TawhidKomol/Mango-Maturity-Recognition-Using-Deep-Learning/blob/main/img/1.JPG?raw=true)
 
-![App Screenshot](https://github.com/TawhidKomol/crud-using-spring-boot-reactjs/blob/main/src/screenshot/Screenshot%202023-02-22%20234732.png?raw=true)
+![App Screenshot](https://github.com/TawhidKomol/Mango-Maturity-Recognition-Using-Deep-Learning/blob/main/img/2.JPG?raw=true)
 
-![App Screenshot](https://github.com/TawhidKomol/crud-using-spring-boot-reactjs/blob/main/src/screenshot/Screenshot%202023-02-22%20234813.png?raw=true)
+![App Screenshot](https://github.com/TawhidKomol/Mango-Maturity-Recognition-Using-Deep-Learning/blob/main/img/3.JPG?raw=true)
 
 
 
